@@ -2,7 +2,7 @@
 [date]: <> (2026/06/10T09:12:44.480Z)
 [category]: <> (general)
 
-# Testing Blog Mode Feature
+# Blog Mode Feature
 
 ## Test Test Test
 
